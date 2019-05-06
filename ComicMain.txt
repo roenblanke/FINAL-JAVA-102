@@ -1,0 +1,14 @@
+package comicbookstore;
+
+/**
+ *
+ * @author roen.blanke
+ */
+public class ComicBookStore {
+    
+    public static void main(String[] args) {
+        PassWord pw = new PassWord();
+        pw.setVisible(true);
+    }
+    
+}
